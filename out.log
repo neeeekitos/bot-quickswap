@@ -1,0 +1,2014 @@
+starting to listen events...
+
+
+
+
+                 New pair created                                  
+Pair infos : 
+      =================
+      * Transaction receipt : https://www.bscscan.com/tx/0x192f877fa26ca432fcac3aac6637f089d4ee13147f7c71cc96f94908585f9904,
+      * Coin charts         : https://poocoin.app/tokens/0x90b201171f11928f875a2e338e024b5a19081b3d,
+      * LP Value            : 10.002 BNB,
+      * LP Pool address is  : 0xededd3c23fe0ec5a6144b6b4a7ca81f291d7f1d1,
+      * Token creator       : 0xd3dc7794c38b0ee5858adc1971d173b84dcc3806,
+      * Creator has         : 20% of a total supply`),
+      * Token holders count : 3;
+    
+
+
+
+
+                 New pair created                                  
+Pair infos : 
+      =================
+      * Transaction receipt : https://www.bscscan.com/tx/0xd5597f0b9d7067c3568eca5620bcecce83a12bdaf6b43f32b5cc15bc090fe6df,
+      * Coin charts         : https://poocoin.app/tokens/0x2b2793abd8d321a503bf5c304e99e4db2f8cd4bd,
+      * LP Value            : 4.0 BNB,
+      * LP Pool address is  : 0x0ab9447833d38428cf9a839236466d3536772b3f,
+      * Token creator       : 0x61c7632b49ed2dc9f27d9c9b5480966be1003b1a,
+      * Creator has         : 10% of a total supply`),
+      * Token holders count : 3;
+    
+
+
+
+
+                 New pair created                                  
+Pair infos : 
+      =================
+      * Transaction receipt : https://www.bscscan.com/tx/0x0cf5ef1d6ad1097ed9b35e7ac9e8c0b960ee3333320ead1c9cc8adbfe163f08e,
+      * Coin charts         : https://poocoin.app/tokens/0xa93a09aa74422820e916902a3a94830a249f6c9b,
+      * LP Value            : 1.6 BNB,
+      * LP Pool address is  : 0x1996d069b5b3f7dc5f717eb6b9e84ac8fe4b3935,
+      * Token creator       : 0x8bc70438b9427dbac071072b119f414b20142cb0,
+      * Creator has         : 0% of a total supply`),
+      * Token holders count : 0;
+    
+
+
+
+
+                 New pair created                                  
+Pair infos : 
+      =================
+      * Transaction receipt : https://www.bscscan.com/tx/0x45da40f699e169e1e57d04d618722220ce4cb9d70ff15e989a65b077481dedcf,
+      * Coin charts         : https://poocoin.app/tokens/0xb835159b543b5a3d6745bfa08a86656ef99e2f4c,
+      * LP Value            : 0.0 BNB,
+      * LP Pool address is  : 0x87ef77662d752fbc706731497a1b765d9e51d499,
+      * Token creator       : 0xc3c241e4cb32ab4c475a8378585e113b6b4c0dc9,
+      * Creator has         : 0% of a total supply`),
+      * Token holders count : 0;
+    
+
+
+
+
+                 New pair created                                  
+Pair infos : 
+      =================
+      * Transaction receipt : https://www.bscscan.com/tx/0xd695fbca68f905cd849d662d25978028cfd747535a5e624f3feefb0d8b2a0c88,
+      * Coin charts         : https://poocoin.app/tokens/0x57d09fc864a89cb720ed75ae106c32200c0fc12c,
+      * LP Value            : 0.0 BNB,
+      * LP Pool address is  : 0xf43f6cd70c5bfa1e12f844866c3cc64f307e3959,
+      * Token creator       : 0x755c3cb0a27f1e0cd920568a354934f11599c486,
+      * Creator has         : 0% of a total supply`),
+      * Token holders count : 0;
+    
+
+
+
+
+                 New pair created                                  
+Pair infos : 
+      =================
+      * Transaction receipt : https://www.bscscan.com/tx/0xe367103ccaabd056ea76f3d5cf88efe424fca68fc81a57a062281170a92f9aee,
+      * Coin charts         : https://poocoin.app/tokens/0x6ab5973863690768c248ebb3aa5483939801d074,
+      * LP Value            : 0.0 BNB,
+      * LP Pool address is  : 0x16e2e837a7d65ef1ad71a0d6fd1287a964a2889e,
+      * Token creator       : 0xce6ef5f17fff71f3944186bed833760c1f0016c3,
+      * Creator has         : 100% of a total supply`),
+      * Token holders count : 1;
+    
+
+
+
+
+                 New pair created                                  
+Pair infos : 
+      =================
+      * Transaction receipt : https://www.bscscan.com/tx/0x4b0af23e9e45f7f066691ee6394e8403c4539d105346020d686fcea907f03df3,
+      * Coin charts         : https://poocoin.app/tokens/0xded7d6a5347a257723ccf826d3ef4686cef11e14,
+      * LP Value            : 75.11696056772921322 BNB,
+      * LP Pool address is  : 0x1ab79a86916e101901d37c604c3765d21182451f,
+      * Token creator       : 0x2c17b200b2a664aec11454d7c07c7d11a18aefe2,
+      * Creator has         : 0% of a total supply`),
+      * Token holders count : 0;
+    
+Error: Request failed with status code 503
+    at createError (/Users/nikitaterekhov/Projects/Snippers/bot-pancakeswap/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/Users/nikitaterekhov/Projects/Snippers/bot-pancakeswap/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/Users/nikitaterekhov/Projects/Snippers/bot-pancakeswap/node_modules/axios/lib/adapters/http.js:260:11)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (internal/streams/readable.js:1327:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  config: {
+    url: 'http://api.covalenthq.com/v1/56/tokens/0x7133446d8c53e5329b9945c7e38245deaf9177ab/token_holders/?key=ckey_66360f80fa6444babcebc84',
+    method: 'get',
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'User-Agent': 'axios/0.21.1'
+    },
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    adapter: [Function: httpAdapter],
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    data: undefined
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      socket: [Function (anonymous)],
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      prefinish: [Function: requestOnPrefinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: false,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    _contentLength: 0,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'api.covalenthq.com',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.covalenthq.com',
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 364,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object],
+      [Symbol(RequestTimeout)]: undefined
+    },
+    _header: 'GET /v1/56/tokens/0x7133446d8c53e5329b9945c7e38245deaf9177ab/token_holders/?key=ckey_66360f80fa6444babcebc84 HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'User-Agent: axios/0.21.1\r\n' +
+      'Host: api.covalenthq.com\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: noopPendingOutput],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object],
+      requests: {},
+      sockets: [Object],
+      freeSockets: {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'fifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'GET',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    path: '/v1/56/tokens/0x7133446d8c53e5329b9945c7e38245deaf9177ab/token_holders/?key=ckey_66360f80fa6444babcebc84',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      headers: [Object],
+      rawHeaders: [Array],
+      trailers: {},
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 503,
+      statusMessage: 'Service Unavailable',
+      client: [TLSSocket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://api.covalenthq.com/v1/56/tokens/0x7133446d8c53e5329b9945c7e38245deaf9177ab/token_holders/?key=ckey_66360f80fa6444babcebc84',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.covalenthq.com',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 1,
+      _redirects: [],
+      _requestBodyLength: 0,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://api.covalenthq.com/v1/56/tokens/0x7133446d8c53e5329b9945c7e38245deaf9177ab/token_holders/?key=ckey_66360f80fa6444babcebc84',
+      _isRedirect: true,
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'user-agent': [Array],
+      host: [Array]
+    }
+  },
+  response: {
+    status: 503,
+    statusText: 'Service Unavailable',
+    headers: {
+      date: 'Sun, 11 Jul 2021 08:37:29 GMT',
+      'content-type': 'application/json',
+      'content-length': '132',
+      connection: 'close',
+      'cache-control': 'must-revalidate,no-cache,no-store',
+      'access-control-allow-credentials': 'true',
+      'cf-cache-status': 'BYPASS',
+      'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+      'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v2?s=DqosbowgnSwxdaWVSFQju5d8Q%2BLJj9wYF3oyTRhwSclDyfA8G9yJJcJgNTV7XN%2BKYtQqnuGztCxCcT3xdzN4wsjZxh3fTh2WdX2vn2i3nDgku2N%2FTMu%2BQiy5texoYiI%3D"}],"group":"cf-nel","max_age":604800}',
+      nel: '{"report_to":"cf-nel","max_age":604800}',
+      server: 'cloudflare',
+      'cf-ray': '66d0b53fa82a41e4-MRS',
+      'alt-svc': 'h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400, h3=":443"; ma=86400'
+    },
+    config: {
+      url: 'http://api.covalenthq.com/v1/56/tokens/0x7133446d8c53e5329b9945c7e38245deaf9177ab/token_holders/?key=ckey_66360f80fa6444babcebc84',
+      method: 'get',
+      headers: [Object],
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 0,
+      adapter: [Function: httpAdapter],
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      validateStatus: [Function: validateStatus],
+      data: undefined
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: false,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: 0,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [TLSSocket],
+      _header: 'GET /v1/56/tokens/0x7133446d8c53e5329b9945c7e38245deaf9177ab/token_holders/?key=ckey_66360f80fa6444babcebc84 HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'User-Agent: axios/0.21.1\r\n' +
+        'Host: api.covalenthq.com\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'GET',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      path: '/v1/56/tokens/0x7133446d8c53e5329b9945c7e38245deaf9177ab/token_holders/?key=ckey_66360f80fa6444babcebc84',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.covalenthq.com',
+      protocol: 'https:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    data: {
+      message: 'Service Unavailable',
+      url: '/v1/56/tokens/0x7133446d8c53e5329b9945c7e38245deaf9177ab/token_holders/',
+      status: '503'
+    }
+  },
+  isAxiosError: true,
+  toJSON: [Function: toJSON]
+}
+
+
+
+
+                 New pair created                                  
+Pair infos : 
+      =================
+      * Transaction receipt : https://www.bscscan.com/tx/0x6e2b5083fd9c3240305399a4852eff51c93a603ad342394b055ed8b27705f1c2,
+      * Coin charts         : https://poocoin.app/tokens/0x7133446d8c53e5329b9945c7e38245deaf9177ab,
+      * LP Value            : 10.0 BNB,
+      * LP Pool address is  : 0xc05f332173826d043f981aa258e4bb62f05a7f12,
+      * Token creator       : 0xd3dc7794c38b0ee5858adc1971d173b84dcc3806,
+      * Creator has         : 0% of a total supply`),
+      * Token holders count : 0;
+    
+
+
+
+
+                 New pair created                                  
+Pair infos : 
+      =================
+      * Transaction receipt : https://www.bscscan.com/tx/0x5a507d82e48f98910be49ee53227c7e787b8a38d65d0ba30b2056464b62672e2,
+      * Coin charts         : https://poocoin.app/tokens/0xde90458f693eacd00508ae5016867e8beca9596e,
+      * LP Value            : 0.602 BNB,
+      * LP Pool address is  : 0xd089255ab14c22ac033a7f930c9d7e259a967ce7,
+      * Token creator       : 0x0dd313bdc3edcabe2b0b3820c613b019684774b8,
+      * Creator has         : 9.75% of a total supply`),
+      * Token holders count : 12;
+    
+
+
+
+
+                1 : [0x0ab9447833d38428cf9a839236466d3536772b3f] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xd5597f0b9d7067c3568eca5620bcecce83a12bdaf6b43f32b5cc15bc090fe6df,
+              * Coin charts         : https://poocoin.app/tokens/0x2b2793abd8d321a503bf5c304e99e4db2f8cd4bd,
+              * LP Value            : 4.0 BNB,
+              * LP Pool address is  : 0x0ab9447833d38428cf9a839236466d3536772b3f,
+              * Token creator       : 0x61c7632b49ed2dc9f27d9c9b5480966be1003b1a,
+              * Creator has         : 10% of a total supply`),
+              * Token holders count : 9;
+        
+
+
+
+
+                1 : [0x1996d069b5b3f7dc5f717eb6b9e84ac8fe4b3935] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x0cf5ef1d6ad1097ed9b35e7ac9e8c0b960ee3333320ead1c9cc8adbfe163f08e,
+              * Coin charts         : https://poocoin.app/tokens/0xa93a09aa74422820e916902a3a94830a249f6c9b,
+              * LP Value            : 1.6 BNB,
+              * LP Pool address is  : 0x1996d069b5b3f7dc5f717eb6b9e84ac8fe4b3935,
+              * Token creator       : 0x8bc70438b9427dbac071072b119f414b20142cb0,
+              * Creator has         : 0% of a total supply`),
+              * Token holders count : 0;
+        
+
+
+
+
+                1 : [0xededd3c23fe0ec5a6144b6b4a7ca81f291d7f1d1] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x192f877fa26ca432fcac3aac6637f089d4ee13147f7c71cc96f94908585f9904,
+              * Coin charts         : https://poocoin.app/tokens/0x90b201171f11928f875a2e338e024b5a19081b3d,
+              * LP Value            : 10.002 BNB,
+              * LP Pool address is  : 0xededd3c23fe0ec5a6144b6b4a7ca81f291d7f1d1,
+              * Token creator       : 0xd3dc7794c38b0ee5858adc1971d173b84dcc3806,
+              * Creator has         : 20% of a total supply`),
+              * Token holders count : 3;
+        
+
+
+
+
+                1 : [0x87ef77662d752fbc706731497a1b765d9e51d499] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x45da40f699e169e1e57d04d618722220ce4cb9d70ff15e989a65b077481dedcf,
+              * Coin charts         : https://poocoin.app/tokens/0xb835159b543b5a3d6745bfa08a86656ef99e2f4c,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x87ef77662d752fbc706731497a1b765d9e51d499,
+              * Token creator       : 0xc3c241e4cb32ab4c475a8378585e113b6b4c0dc9,
+              * Creator has         : 50% of a total supply`),
+              * Token holders count : 2;
+        
+
+
+
+
+                1 : [0xf43f6cd70c5bfa1e12f844866c3cc64f307e3959] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xd695fbca68f905cd849d662d25978028cfd747535a5e624f3feefb0d8b2a0c88,
+              * Coin charts         : https://poocoin.app/tokens/0x57d09fc864a89cb720ed75ae106c32200c0fc12c,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0xf43f6cd70c5bfa1e12f844866c3cc64f307e3959,
+              * Token creator       : 0x755c3cb0a27f1e0cd920568a354934f11599c486,
+              * Creator has         : 0% of a total supply`),
+              * Token holders count : 0;
+        
+
+
+
+
+                1 : [0x16e2e837a7d65ef1ad71a0d6fd1287a964a2889e] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xe367103ccaabd056ea76f3d5cf88efe424fca68fc81a57a062281170a92f9aee,
+              * Coin charts         : https://poocoin.app/tokens/0x6ab5973863690768c248ebb3aa5483939801d074,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x16e2e837a7d65ef1ad71a0d6fd1287a964a2889e,
+              * Token creator       : 0xce6ef5f17fff71f3944186bed833760c1f0016c3,
+              * Creator has         : 100% of a total supply`),
+              * Token holders count : 1;
+        
+
+
+
+
+                1 : [0x1ab79a86916e101901d37c604c3765d21182451f] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x4b0af23e9e45f7f066691ee6394e8403c4539d105346020d686fcea907f03df3,
+              * Coin charts         : https://poocoin.app/tokens/0xded7d6a5347a257723ccf826d3ef4686cef11e14,
+              * LP Value            : 75.11696056772921322 BNB,
+              * LP Pool address is  : 0x1ab79a86916e101901d37c604c3765d21182451f,
+              * Token creator       : 0x2c17b200b2a664aec11454d7c07c7d11a18aefe2,
+              * Creator has         : 0% of a total supply`),
+              * Token holders count : 0;
+        
+
+
+
+
+                1 : [0xc05f332173826d043f981aa258e4bb62f05a7f12] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x6e2b5083fd9c3240305399a4852eff51c93a603ad342394b055ed8b27705f1c2,
+              * Coin charts         : https://poocoin.app/tokens/0x7133446d8c53e5329b9945c7e38245deaf9177ab,
+              * LP Value            : 10.0 BNB,
+              * LP Pool address is  : 0xc05f332173826d043f981aa258e4bb62f05a7f12,
+              * Token creator       : 0xd3dc7794c38b0ee5858adc1971d173b84dcc3806,
+              * Creator has         : 22.69877888227266% of a total supply`),
+              * Token holders count : 4;
+        
+
+
+
+
+                1 : [0xd089255ab14c22ac033a7f930c9d7e259a967ce7] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x5a507d82e48f98910be49ee53227c7e787b8a38d65d0ba30b2056464b62672e2,
+              * Coin charts         : https://poocoin.app/tokens/0xde90458f693eacd00508ae5016867e8beca9596e,
+              * LP Value            : 0.602 BNB,
+              * LP Pool address is  : 0xd089255ab14c22ac033a7f930c9d7e259a967ce7,
+              * Token creator       : 0x0dd313bdc3edcabe2b0b3820c613b019684774b8,
+              * Creator has         : 4.712662711842087% of a total supply`),
+              * Token holders count : 23;
+        
+
+
+
+
+                2 : [0xededd3c23fe0ec5a6144b6b4a7ca81f291d7f1d1] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x192f877fa26ca432fcac3aac6637f089d4ee13147f7c71cc96f94908585f9904,
+              * Coin charts         : https://poocoin.app/tokens/0x90b201171f11928f875a2e338e024b5a19081b3d,
+              * LP Value            : 10.002 BNB,
+              * LP Pool address is  : 0xededd3c23fe0ec5a6144b6b4a7ca81f291d7f1d1,
+              * Token creator       : 0xd3dc7794c38b0ee5858adc1971d173b84dcc3806,
+              * Creator has         : 22.69771924079743% of a total supply`),
+              * Token holders count : 5;
+        
+
+
+
+
+                2 : [0x1996d069b5b3f7dc5f717eb6b9e84ac8fe4b3935] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x0cf5ef1d6ad1097ed9b35e7ac9e8c0b960ee3333320ead1c9cc8adbfe163f08e,
+              * Coin charts         : https://poocoin.app/tokens/0xa93a09aa74422820e916902a3a94830a249f6c9b,
+              * LP Value            : 1.6 BNB,
+              * LP Pool address is  : 0x1996d069b5b3f7dc5f717eb6b9e84ac8fe4b3935,
+              * Token creator       : 0x8bc70438b9427dbac071072b119f414b20142cb0,
+              * Creator has         : 302.60874775016566% of a total supply`),
+              * Token holders count : 16;
+        
+
+
+
+
+                2 : [0x0ab9447833d38428cf9a839236466d3536772b3f] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xd5597f0b9d7067c3568eca5620bcecce83a12bdaf6b43f32b5cc15bc090fe6df,
+              * Coin charts         : https://poocoin.app/tokens/0x2b2793abd8d321a503bf5c304e99e4db2f8cd4bd,
+              * LP Value            : 4.0 BNB,
+              * LP Pool address is  : 0x0ab9447833d38428cf9a839236466d3536772b3f,
+              * Token creator       : 0x61c7632b49ed2dc9f27d9c9b5480966be1003b1a,
+              * Creator has         : 49.424694740776985% of a total supply`),
+              * Token holders count : 9;
+        
+
+
+
+
+                2 : [0x87ef77662d752fbc706731497a1b765d9e51d499] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x45da40f699e169e1e57d04d618722220ce4cb9d70ff15e989a65b077481dedcf,
+              * Coin charts         : https://poocoin.app/tokens/0xb835159b543b5a3d6745bfa08a86656ef99e2f4c,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x87ef77662d752fbc706731497a1b765d9e51d499,
+              * Token creator       : 0xc3c241e4cb32ab4c475a8378585e113b6b4c0dc9,
+              * Creator has         : 50% of a total supply`),
+              * Token holders count : 2;
+        
+
+
+
+
+                2 : [0xf43f6cd70c5bfa1e12f844866c3cc64f307e3959] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xd695fbca68f905cd849d662d25978028cfd747535a5e624f3feefb0d8b2a0c88,
+              * Coin charts         : https://poocoin.app/tokens/0x57d09fc864a89cb720ed75ae106c32200c0fc12c,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0xf43f6cd70c5bfa1e12f844866c3cc64f307e3959,
+              * Token creator       : 0x755c3cb0a27f1e0cd920568a354934f11599c486,
+              * Creator has         : 0.8413711363801778% of a total supply`),
+              * Token holders count : 15;
+        
+
+
+
+
+                2 : [0x16e2e837a7d65ef1ad71a0d6fd1287a964a2889e] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xe367103ccaabd056ea76f3d5cf88efe424fca68fc81a57a062281170a92f9aee,
+              * Coin charts         : https://poocoin.app/tokens/0x6ab5973863690768c248ebb3aa5483939801d074,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x16e2e837a7d65ef1ad71a0d6fd1287a964a2889e,
+              * Token creator       : 0xce6ef5f17fff71f3944186bed833760c1f0016c3,
+              * Creator has         : 96% of a total supply`),
+              * Token holders count : 2;
+        
+
+
+
+
+                2 : [0x1ab79a86916e101901d37c604c3765d21182451f] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x4b0af23e9e45f7f066691ee6394e8403c4539d105346020d686fcea907f03df3,
+              * Coin charts         : https://poocoin.app/tokens/0xded7d6a5347a257723ccf826d3ef4686cef11e14,
+              * LP Value            : 75.11696056772921322 BNB,
+              * LP Pool address is  : 0x1ab79a86916e101901d37c604c3765d21182451f,
+              * Token creator       : 0x2c17b200b2a664aec11454d7c07c7d11a18aefe2,
+              * Creator has         : 0% of a total supply`),
+              * Token holders count : 0;
+        
+
+
+
+
+                2 : [0xc05f332173826d043f981aa258e4bb62f05a7f12] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x6e2b5083fd9c3240305399a4852eff51c93a603ad342394b055ed8b27705f1c2,
+              * Coin charts         : https://poocoin.app/tokens/0x7133446d8c53e5329b9945c7e38245deaf9177ab,
+              * LP Value            : 10.0 BNB,
+              * LP Pool address is  : 0xc05f332173826d043f981aa258e4bb62f05a7f12,
+              * Token creator       : 0xd3dc7794c38b0ee5858adc1971d173b84dcc3806,
+              * Creator has         : 22.69877888227266% of a total supply`),
+              * Token holders count : 5;
+        
+
+
+
+
+                2 : [0xd089255ab14c22ac033a7f930c9d7e259a967ce7] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x5a507d82e48f98910be49ee53227c7e787b8a38d65d0ba30b2056464b62672e2,
+              * Coin charts         : https://poocoin.app/tokens/0xde90458f693eacd00508ae5016867e8beca9596e,
+              * LP Value            : 0.602 BNB,
+              * LP Pool address is  : 0xd089255ab14c22ac033a7f930c9d7e259a967ce7,
+              * Token creator       : 0x0dd313bdc3edcabe2b0b3820c613b019684774b8,
+              * Creator has         : 4.3371681607330865% of a total supply`),
+              * Token holders count : 24;
+        
+
+
+
+
+                3 : [0xededd3c23fe0ec5a6144b6b4a7ca81f291d7f1d1] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x192f877fa26ca432fcac3aac6637f089d4ee13147f7c71cc96f94908585f9904,
+              * Coin charts         : https://poocoin.app/tokens/0x90b201171f11928f875a2e338e024b5a19081b3d,
+              * LP Value            : 10.002 BNB,
+              * LP Pool address is  : 0xededd3c23fe0ec5a6144b6b4a7ca81f291d7f1d1,
+              * Token creator       : 0xd3dc7794c38b0ee5858adc1971d173b84dcc3806,
+              * Creator has         : 22.69771924079743% of a total supply`),
+              * Token holders count : 6;
+        
+
+
+
+
+                3 : [0x1996d069b5b3f7dc5f717eb6b9e84ac8fe4b3935] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x0cf5ef1d6ad1097ed9b35e7ac9e8c0b960ee3333320ead1c9cc8adbfe163f08e,
+              * Coin charts         : https://poocoin.app/tokens/0xa93a09aa74422820e916902a3a94830a249f6c9b,
+              * LP Value            : 1.6 BNB,
+              * LP Pool address is  : 0x1996d069b5b3f7dc5f717eb6b9e84ac8fe4b3935,
+              * Token creator       : 0x8bc70438b9427dbac071072b119f414b20142cb0,
+              * Creator has         : 303.78847040074936% of a total supply`),
+              * Token holders count : 18;
+        
+
+
+
+
+                3 : [0x0ab9447833d38428cf9a839236466d3536772b3f] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xd5597f0b9d7067c3568eca5620bcecce83a12bdaf6b43f32b5cc15bc090fe6df,
+              * Coin charts         : https://poocoin.app/tokens/0x2b2793abd8d321a503bf5c304e99e4db2f8cd4bd,
+              * LP Value            : 4.0 BNB,
+              * LP Pool address is  : 0x0ab9447833d38428cf9a839236466d3536772b3f,
+              * Token creator       : 0x61c7632b49ed2dc9f27d9c9b5480966be1003b1a,
+              * Creator has         : 49.424694740776985% of a total supply`),
+              * Token holders count : 10;
+        
+
+
+
+
+                3 : [0x87ef77662d752fbc706731497a1b765d9e51d499] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x45da40f699e169e1e57d04d618722220ce4cb9d70ff15e989a65b077481dedcf,
+              * Coin charts         : https://poocoin.app/tokens/0xb835159b543b5a3d6745bfa08a86656ef99e2f4c,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x87ef77662d752fbc706731497a1b765d9e51d499,
+              * Token creator       : 0xc3c241e4cb32ab4c475a8378585e113b6b4c0dc9,
+              * Creator has         : 50% of a total supply`),
+              * Token holders count : 2;
+        
+
+
+
+
+                3 : [0xf43f6cd70c5bfa1e12f844866c3cc64f307e3959] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xd695fbca68f905cd849d662d25978028cfd747535a5e624f3feefb0d8b2a0c88,
+              * Coin charts         : https://poocoin.app/tokens/0x57d09fc864a89cb720ed75ae106c32200c0fc12c,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0xf43f6cd70c5bfa1e12f844866c3cc64f307e3959,
+              * Token creator       : 0x755c3cb0a27f1e0cd920568a354934f11599c486,
+              * Creator has         : 1.6131297999258092% of a total supply`),
+              * Token holders count : 23;
+        
+
+
+
+
+                3 : [0x16e2e837a7d65ef1ad71a0d6fd1287a964a2889e] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xe367103ccaabd056ea76f3d5cf88efe424fca68fc81a57a062281170a92f9aee,
+              * Coin charts         : https://poocoin.app/tokens/0x6ab5973863690768c248ebb3aa5483939801d074,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x16e2e837a7d65ef1ad71a0d6fd1287a964a2889e,
+              * Token creator       : 0xce6ef5f17fff71f3944186bed833760c1f0016c3,
+              * Creator has         : 0% of a total supply`),
+              * Token holders count : 0;
+        
+
+
+
+
+                3 : [0x1ab79a86916e101901d37c604c3765d21182451f] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x4b0af23e9e45f7f066691ee6394e8403c4539d105346020d686fcea907f03df3,
+              * Coin charts         : https://poocoin.app/tokens/0xded7d6a5347a257723ccf826d3ef4686cef11e14,
+              * LP Value            : 75.11696056772921322 BNB,
+              * LP Pool address is  : 0x1ab79a86916e101901d37c604c3765d21182451f,
+              * Token creator       : 0x2c17b200b2a664aec11454d7c07c7d11a18aefe2,
+              * Creator has         : 0% of a total supply`),
+              * Token holders count : 0;
+        
+
+
+
+
+                3 : [0xc05f332173826d043f981aa258e4bb62f05a7f12] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x6e2b5083fd9c3240305399a4852eff51c93a603ad342394b055ed8b27705f1c2,
+              * Coin charts         : https://poocoin.app/tokens/0x7133446d8c53e5329b9945c7e38245deaf9177ab,
+              * LP Value            : 10.0 BNB,
+              * LP Pool address is  : 0xc05f332173826d043f981aa258e4bb62f05a7f12,
+              * Token creator       : 0xd3dc7794c38b0ee5858adc1971d173b84dcc3806,
+              * Creator has         : 22.69877888227266% of a total supply`),
+              * Token holders count : 6;
+        
+
+
+
+
+                3 : [0xd089255ab14c22ac033a7f930c9d7e259a967ce7] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x5a507d82e48f98910be49ee53227c7e787b8a38d65d0ba30b2056464b62672e2,
+              * Coin charts         : https://poocoin.app/tokens/0xde90458f693eacd00508ae5016867e8beca9596e,
+              * LP Value            : 0.602 BNB,
+              * LP Pool address is  : 0xd089255ab14c22ac033a7f930c9d7e259a967ce7,
+              * Token creator       : 0x0dd313bdc3edcabe2b0b3820c613b019684774b8,
+              * Creator has         : 4.3371681607330865% of a total supply`),
+              * Token holders count : 24;
+        
+
+
+
+
+                4 : [0xededd3c23fe0ec5a6144b6b4a7ca81f291d7f1d1] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x192f877fa26ca432fcac3aac6637f089d4ee13147f7c71cc96f94908585f9904,
+              * Coin charts         : https://poocoin.app/tokens/0x90b201171f11928f875a2e338e024b5a19081b3d,
+              * LP Value            : 10.002 BNB,
+              * LP Pool address is  : 0xededd3c23fe0ec5a6144b6b4a7ca81f291d7f1d1,
+              * Token creator       : 0xd3dc7794c38b0ee5858adc1971d173b84dcc3806,
+              * Creator has         : 21.711099829459084% of a total supply`),
+              * Token holders count : 10;
+        
+
+
+
+
+                4 : [0x1996d069b5b3f7dc5f717eb6b9e84ac8fe4b3935] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x0cf5ef1d6ad1097ed9b35e7ac9e8c0b960ee3333320ead1c9cc8adbfe163f08e,
+              * Coin charts         : https://poocoin.app/tokens/0xa93a09aa74422820e916902a3a94830a249f6c9b,
+              * LP Value            : 1.6 BNB,
+              * LP Pool address is  : 0x1996d069b5b3f7dc5f717eb6b9e84ac8fe4b3935,
+              * Token creator       : 0x8bc70438b9427dbac071072b119f414b20142cb0,
+              * Creator has         : 303.78847040074936% of a total supply`),
+              * Token holders count : 18;
+        
+
+
+
+
+                4 : [0x0ab9447833d38428cf9a839236466d3536772b3f] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xd5597f0b9d7067c3568eca5620bcecce83a12bdaf6b43f32b5cc15bc090fe6df,
+              * Coin charts         : https://poocoin.app/tokens/0x2b2793abd8d321a503bf5c304e99e4db2f8cd4bd,
+              * LP Value            : 4.0 BNB,
+              * LP Pool address is  : 0x0ab9447833d38428cf9a839236466d3536772b3f,
+              * Token creator       : 0x61c7632b49ed2dc9f27d9c9b5480966be1003b1a,
+              * Creator has         : 49.424694740776985% of a total supply`),
+              * Token holders count : 10;
+        
+
+
+
+
+                4 : [0x87ef77662d752fbc706731497a1b765d9e51d499] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x45da40f699e169e1e57d04d618722220ce4cb9d70ff15e989a65b077481dedcf,
+              * Coin charts         : https://poocoin.app/tokens/0xb835159b543b5a3d6745bfa08a86656ef99e2f4c,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x87ef77662d752fbc706731497a1b765d9e51d499,
+              * Token creator       : 0xc3c241e4cb32ab4c475a8378585e113b6b4c0dc9,
+              * Creator has         : 50% of a total supply`),
+              * Token holders count : 2;
+        
+
+
+
+
+                4 : [0xf43f6cd70c5bfa1e12f844866c3cc64f307e3959] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xd695fbca68f905cd849d662d25978028cfd747535a5e624f3feefb0d8b2a0c88,
+              * Coin charts         : https://poocoin.app/tokens/0x57d09fc864a89cb720ed75ae106c32200c0fc12c,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0xf43f6cd70c5bfa1e12f844866c3cc64f307e3959,
+              * Token creator       : 0x755c3cb0a27f1e0cd920568a354934f11599c486,
+              * Creator has         : 1.6131297999258092% of a total supply`),
+              * Token holders count : 25;
+        
+
+
+
+
+                4 : [0x16e2e837a7d65ef1ad71a0d6fd1287a964a2889e] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xe367103ccaabd056ea76f3d5cf88efe424fca68fc81a57a062281170a92f9aee,
+              * Coin charts         : https://poocoin.app/tokens/0x6ab5973863690768c248ebb3aa5483939801d074,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x16e2e837a7d65ef1ad71a0d6fd1287a964a2889e,
+              * Token creator       : 0xce6ef5f17fff71f3944186bed833760c1f0016c3,
+              * Creator has         : 0% of a total supply`),
+              * Token holders count : 0;
+        
+
+
+
+
+                4 : [0x1ab79a86916e101901d37c604c3765d21182451f] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x4b0af23e9e45f7f066691ee6394e8403c4539d105346020d686fcea907f03df3,
+              * Coin charts         : https://poocoin.app/tokens/0xded7d6a5347a257723ccf826d3ef4686cef11e14,
+              * LP Value            : 75.11696056772921322 BNB,
+              * LP Pool address is  : 0x1ab79a86916e101901d37c604c3765d21182451f,
+              * Token creator       : 0x2c17b200b2a664aec11454d7c07c7d11a18aefe2,
+              * Creator has         : 0% of a total supply`),
+              * Token holders count : 0;
+        
+
+
+
+
+                4 : [0xc05f332173826d043f981aa258e4bb62f05a7f12] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x6e2b5083fd9c3240305399a4852eff51c93a603ad342394b055ed8b27705f1c2,
+              * Coin charts         : https://poocoin.app/tokens/0x7133446d8c53e5329b9945c7e38245deaf9177ab,
+              * LP Value            : 10.0 BNB,
+              * LP Pool address is  : 0xc05f332173826d043f981aa258e4bb62f05a7f12,
+              * Token creator       : 0xd3dc7794c38b0ee5858adc1971d173b84dcc3806,
+              * Creator has         : 21.37677183816136% of a total supply`),
+              * Token holders count : 9;
+        
+
+
+
+
+                4 : [0xd089255ab14c22ac033a7f930c9d7e259a967ce7] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x5a507d82e48f98910be49ee53227c7e787b8a38d65d0ba30b2056464b62672e2,
+              * Coin charts         : https://poocoin.app/tokens/0xde90458f693eacd00508ae5016867e8beca9596e,
+              * LP Value            : 0.602 BNB,
+              * LP Pool address is  : 0xd089255ab14c22ac033a7f930c9d7e259a967ce7,
+              * Token creator       : 0x0dd313bdc3edcabe2b0b3820c613b019684774b8,
+              * Creator has         : 4.3371681607330865% of a total supply`),
+              * Token holders count : 24;
+        
+
+
+
+
+                5 : [0xededd3c23fe0ec5a6144b6b4a7ca81f291d7f1d1] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x192f877fa26ca432fcac3aac6637f089d4ee13147f7c71cc96f94908585f9904,
+              * Coin charts         : https://poocoin.app/tokens/0x90b201171f11928f875a2e338e024b5a19081b3d,
+              * LP Value            : 10.002 BNB,
+              * LP Pool address is  : 0xededd3c23fe0ec5a6144b6b4a7ca81f291d7f1d1,
+              * Token creator       : 0xd3dc7794c38b0ee5858adc1971d173b84dcc3806,
+              * Creator has         : 24.660791858523076% of a total supply`),
+              * Token holders count : 10;
+        
+
+
+
+
+                5 : [0x0ab9447833d38428cf9a839236466d3536772b3f] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xd5597f0b9d7067c3568eca5620bcecce83a12bdaf6b43f32b5cc15bc090fe6df,
+              * Coin charts         : https://poocoin.app/tokens/0x2b2793abd8d321a503bf5c304e99e4db2f8cd4bd,
+              * LP Value            : 4.0 BNB,
+              * LP Pool address is  : 0x0ab9447833d38428cf9a839236466d3536772b3f,
+              * Token creator       : 0x61c7632b49ed2dc9f27d9c9b5480966be1003b1a,
+              * Creator has         : 49.424694740776985% of a total supply`),
+              * Token holders count : 10;
+        
+
+
+
+
+                5 : [0x1996d069b5b3f7dc5f717eb6b9e84ac8fe4b3935] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x0cf5ef1d6ad1097ed9b35e7ac9e8c0b960ee3333320ead1c9cc8adbfe163f08e,
+              * Coin charts         : https://poocoin.app/tokens/0xa93a09aa74422820e916902a3a94830a249f6c9b,
+              * LP Value            : 1.6 BNB,
+              * LP Pool address is  : 0x1996d069b5b3f7dc5f717eb6b9e84ac8fe4b3935,
+              * Token creator       : 0x8bc70438b9427dbac071072b119f414b20142cb0,
+              * Creator has         : 303.78847040074936% of a total supply`),
+              * Token holders count : 18;
+        
+
+
+
+
+                5 : [0x87ef77662d752fbc706731497a1b765d9e51d499] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x45da40f699e169e1e57d04d618722220ce4cb9d70ff15e989a65b077481dedcf,
+              * Coin charts         : https://poocoin.app/tokens/0xb835159b543b5a3d6745bfa08a86656ef99e2f4c,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x87ef77662d752fbc706731497a1b765d9e51d499,
+              * Token creator       : 0xc3c241e4cb32ab4c475a8378585e113b6b4c0dc9,
+              * Creator has         : 50% of a total supply`),
+              * Token holders count : 2;
+        
+
+
+
+
+                5 : [0xf43f6cd70c5bfa1e12f844866c3cc64f307e3959] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xd695fbca68f905cd849d662d25978028cfd747535a5e624f3feefb0d8b2a0c88,
+              * Coin charts         : https://poocoin.app/tokens/0x57d09fc864a89cb720ed75ae106c32200c0fc12c,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0xf43f6cd70c5bfa1e12f844866c3cc64f307e3959,
+              * Token creator       : 0x755c3cb0a27f1e0cd920568a354934f11599c486,
+              * Creator has         : 1.6131297999258092% of a total supply`),
+              * Token holders count : 25;
+        
+
+
+
+
+                5 : [0x16e2e837a7d65ef1ad71a0d6fd1287a964a2889e] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xe367103ccaabd056ea76f3d5cf88efe424fca68fc81a57a062281170a92f9aee,
+              * Coin charts         : https://poocoin.app/tokens/0x6ab5973863690768c248ebb3aa5483939801d074,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x16e2e837a7d65ef1ad71a0d6fd1287a964a2889e,
+              * Token creator       : 0xce6ef5f17fff71f3944186bed833760c1f0016c3,
+              * Creator has         : 0% of a total supply`),
+              * Token holders count : 0;
+        
+
+
+
+
+                5 : [0x1ab79a86916e101901d37c604c3765d21182451f] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x4b0af23e9e45f7f066691ee6394e8403c4539d105346020d686fcea907f03df3,
+              * Coin charts         : https://poocoin.app/tokens/0xded7d6a5347a257723ccf826d3ef4686cef11e14,
+              * LP Value            : 75.11696056772921322 BNB,
+              * LP Pool address is  : 0x1ab79a86916e101901d37c604c3765d21182451f,
+              * Token creator       : 0x2c17b200b2a664aec11454d7c07c7d11a18aefe2,
+              * Creator has         : 0% of a total supply`),
+              * Token holders count : 0;
+        
+
+
+
+
+                5 : [0xc05f332173826d043f981aa258e4bb62f05a7f12] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x6e2b5083fd9c3240305399a4852eff51c93a603ad342394b055ed8b27705f1c2,
+              * Coin charts         : https://poocoin.app/tokens/0x7133446d8c53e5329b9945c7e38245deaf9177ab,
+              * LP Value            : 10.0 BNB,
+              * LP Pool address is  : 0xc05f332173826d043f981aa258e4bb62f05a7f12,
+              * Token creator       : 0xd3dc7794c38b0ee5858adc1971d173b84dcc3806,
+              * Creator has         : 24.66254735611386% of a total supply`),
+              * Token holders count : 9;
+        
+
+
+
+
+                5 : [0xd089255ab14c22ac033a7f930c9d7e259a967ce7] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x5a507d82e48f98910be49ee53227c7e787b8a38d65d0ba30b2056464b62672e2,
+              * Coin charts         : https://poocoin.app/tokens/0xde90458f693eacd00508ae5016867e8beca9596e,
+              * LP Value            : 0.602 BNB,
+              * LP Pool address is  : 0xd089255ab14c22ac033a7f930c9d7e259a967ce7,
+              * Token creator       : 0x0dd313bdc3edcabe2b0b3820c613b019684774b8,
+              * Creator has         : 4.3371681607330865% of a total supply`),
+              * Token holders count : 24;
+        
+
+
+
+
+                6 : [0xededd3c23fe0ec5a6144b6b4a7ca81f291d7f1d1] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x192f877fa26ca432fcac3aac6637f089d4ee13147f7c71cc96f94908585f9904,
+              * Coin charts         : https://poocoin.app/tokens/0x90b201171f11928f875a2e338e024b5a19081b3d,
+              * LP Value            : 10.002 BNB,
+              * LP Pool address is  : 0xededd3c23fe0ec5a6144b6b4a7ca81f291d7f1d1,
+              * Token creator       : 0xd3dc7794c38b0ee5858adc1971d173b84dcc3806,
+              * Creator has         : 24.660791858523076% of a total supply`),
+              * Token holders count : 10;
+        
+
+
+
+
+                6 : [0x0ab9447833d38428cf9a839236466d3536772b3f] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xd5597f0b9d7067c3568eca5620bcecce83a12bdaf6b43f32b5cc15bc090fe6df,
+              * Coin charts         : https://poocoin.app/tokens/0x2b2793abd8d321a503bf5c304e99e4db2f8cd4bd,
+              * LP Value            : 4.0 BNB,
+              * LP Pool address is  : 0x0ab9447833d38428cf9a839236466d3536772b3f,
+              * Token creator       : 0x61c7632b49ed2dc9f27d9c9b5480966be1003b1a,
+              * Creator has         : 49.424694740776985% of a total supply`),
+              * Token holders count : 10;
+        
+
+
+
+
+                6 : [0x1996d069b5b3f7dc5f717eb6b9e84ac8fe4b3935] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x0cf5ef1d6ad1097ed9b35e7ac9e8c0b960ee3333320ead1c9cc8adbfe163f08e,
+              * Coin charts         : https://poocoin.app/tokens/0xa93a09aa74422820e916902a3a94830a249f6c9b,
+              * LP Value            : 1.6 BNB,
+              * LP Pool address is  : 0x1996d069b5b3f7dc5f717eb6b9e84ac8fe4b3935,
+              * Token creator       : 0x8bc70438b9427dbac071072b119f414b20142cb0,
+              * Creator has         : 303.78847040074936% of a total supply`),
+              * Token holders count : 18;
+        
+
+
+
+
+                6 : [0x87ef77662d752fbc706731497a1b765d9e51d499] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x45da40f699e169e1e57d04d618722220ce4cb9d70ff15e989a65b077481dedcf,
+              * Coin charts         : https://poocoin.app/tokens/0xb835159b543b5a3d6745bfa08a86656ef99e2f4c,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x87ef77662d752fbc706731497a1b765d9e51d499,
+              * Token creator       : 0xc3c241e4cb32ab4c475a8378585e113b6b4c0dc9,
+              * Creator has         : 50% of a total supply`),
+              * Token holders count : 2;
+        
+
+
+
+
+                6 : [0xf43f6cd70c5bfa1e12f844866c3cc64f307e3959] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xd695fbca68f905cd849d662d25978028cfd747535a5e624f3feefb0d8b2a0c88,
+              * Coin charts         : https://poocoin.app/tokens/0x57d09fc864a89cb720ed75ae106c32200c0fc12c,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0xf43f6cd70c5bfa1e12f844866c3cc64f307e3959,
+              * Token creator       : 0x755c3cb0a27f1e0cd920568a354934f11599c486,
+              * Creator has         : 1.6131297999258092% of a total supply`),
+              * Token holders count : 26;
+        
+
+
+
+
+                6 : [0x16e2e837a7d65ef1ad71a0d6fd1287a964a2889e] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xe367103ccaabd056ea76f3d5cf88efe424fca68fc81a57a062281170a92f9aee,
+              * Coin charts         : https://poocoin.app/tokens/0x6ab5973863690768c248ebb3aa5483939801d074,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x16e2e837a7d65ef1ad71a0d6fd1287a964a2889e,
+              * Token creator       : 0xce6ef5f17fff71f3944186bed833760c1f0016c3,
+              * Creator has         : 0% of a total supply`),
+              * Token holders count : 0;
+        
+
+
+
+
+                6 : [0x1ab79a86916e101901d37c604c3765d21182451f] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x4b0af23e9e45f7f066691ee6394e8403c4539d105346020d686fcea907f03df3,
+              * Coin charts         : https://poocoin.app/tokens/0xded7d6a5347a257723ccf826d3ef4686cef11e14,
+              * LP Value            : 75.11696056772921322 BNB,
+              * LP Pool address is  : 0x1ab79a86916e101901d37c604c3765d21182451f,
+              * Token creator       : 0x2c17b200b2a664aec11454d7c07c7d11a18aefe2,
+              * Creator has         : 0% of a total supply`),
+              * Token holders count : 0;
+        
+
+
+
+
+                6 : [0xc05f332173826d043f981aa258e4bb62f05a7f12] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x6e2b5083fd9c3240305399a4852eff51c93a603ad342394b055ed8b27705f1c2,
+              * Coin charts         : https://poocoin.app/tokens/0x7133446d8c53e5329b9945c7e38245deaf9177ab,
+              * LP Value            : 10.0 BNB,
+              * LP Pool address is  : 0xc05f332173826d043f981aa258e4bb62f05a7f12,
+              * Token creator       : 0xd3dc7794c38b0ee5858adc1971d173b84dcc3806,
+              * Creator has         : 24.66254735611386% of a total supply`),
+              * Token holders count : 9;
+        
+
+
+
+
+                6 : [0xd089255ab14c22ac033a7f930c9d7e259a967ce7] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x5a507d82e48f98910be49ee53227c7e787b8a38d65d0ba30b2056464b62672e2,
+              * Coin charts         : https://poocoin.app/tokens/0xde90458f693eacd00508ae5016867e8beca9596e,
+              * LP Value            : 0.602 BNB,
+              * LP Pool address is  : 0xd089255ab14c22ac033a7f930c9d7e259a967ce7,
+              * Token creator       : 0x0dd313bdc3edcabe2b0b3820c613b019684774b8,
+              * Creator has         : 4.3371681607330865% of a total supply`),
+              * Token holders count : 24;
+        
+
+
+
+
+                7 : [0xededd3c23fe0ec5a6144b6b4a7ca81f291d7f1d1] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x192f877fa26ca432fcac3aac6637f089d4ee13147f7c71cc96f94908585f9904,
+              * Coin charts         : https://poocoin.app/tokens/0x90b201171f11928f875a2e338e024b5a19081b3d,
+              * LP Value            : 10.002 BNB,
+              * LP Pool address is  : 0xededd3c23fe0ec5a6144b6b4a7ca81f291d7f1d1,
+              * Token creator       : 0xd3dc7794c38b0ee5858adc1971d173b84dcc3806,
+              * Creator has         : 24.660791858523076% of a total supply`),
+              * Token holders count : 10;
+        
+
+
+
+
+                7 : [0x0ab9447833d38428cf9a839236466d3536772b3f] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xd5597f0b9d7067c3568eca5620bcecce83a12bdaf6b43f32b5cc15bc090fe6df,
+              * Coin charts         : https://poocoin.app/tokens/0x2b2793abd8d321a503bf5c304e99e4db2f8cd4bd,
+              * LP Value            : 4.0 BNB,
+              * LP Pool address is  : 0x0ab9447833d38428cf9a839236466d3536772b3f,
+              * Token creator       : 0x61c7632b49ed2dc9f27d9c9b5480966be1003b1a,
+              * Creator has         : 49.424694740776985% of a total supply`),
+              * Token holders count : 10;
+        
+
+
+
+
+                7 : [0x1996d069b5b3f7dc5f717eb6b9e84ac8fe4b3935] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x0cf5ef1d6ad1097ed9b35e7ac9e8c0b960ee3333320ead1c9cc8adbfe163f08e,
+              * Coin charts         : https://poocoin.app/tokens/0xa93a09aa74422820e916902a3a94830a249f6c9b,
+              * LP Value            : 1.6 BNB,
+              * LP Pool address is  : 0x1996d069b5b3f7dc5f717eb6b9e84ac8fe4b3935,
+              * Token creator       : 0x8bc70438b9427dbac071072b119f414b20142cb0,
+              * Creator has         : 303.78847040074936% of a total supply`),
+              * Token holders count : 18;
+        
+
+
+
+
+                7 : [0x87ef77662d752fbc706731497a1b765d9e51d499] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x45da40f699e169e1e57d04d618722220ce4cb9d70ff15e989a65b077481dedcf,
+              * Coin charts         : https://poocoin.app/tokens/0xb835159b543b5a3d6745bfa08a86656ef99e2f4c,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x87ef77662d752fbc706731497a1b765d9e51d499,
+              * Token creator       : 0xc3c241e4cb32ab4c475a8378585e113b6b4c0dc9,
+              * Creator has         : 0% of a total supply`),
+              * Token holders count : 0;
+        
+
+
+
+
+                7 : [0xf43f6cd70c5bfa1e12f844866c3cc64f307e3959] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xd695fbca68f905cd849d662d25978028cfd747535a5e624f3feefb0d8b2a0c88,
+              * Coin charts         : https://poocoin.app/tokens/0x57d09fc864a89cb720ed75ae106c32200c0fc12c,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0xf43f6cd70c5bfa1e12f844866c3cc64f307e3959,
+              * Token creator       : 0x755c3cb0a27f1e0cd920568a354934f11599c486,
+              * Creator has         : 1.6131297999258092% of a total supply`),
+              * Token holders count : 26;
+        
+
+
+
+
+                7 : [0x16e2e837a7d65ef1ad71a0d6fd1287a964a2889e] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xe367103ccaabd056ea76f3d5cf88efe424fca68fc81a57a062281170a92f9aee,
+              * Coin charts         : https://poocoin.app/tokens/0x6ab5973863690768c248ebb3aa5483939801d074,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x16e2e837a7d65ef1ad71a0d6fd1287a964a2889e,
+              * Token creator       : 0xce6ef5f17fff71f3944186bed833760c1f0016c3,
+              * Creator has         : 0% of a total supply`),
+              * Token holders count : 0;
+        
+
+
+
+
+                7 : [0x1ab79a86916e101901d37c604c3765d21182451f] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x4b0af23e9e45f7f066691ee6394e8403c4539d105346020d686fcea907f03df3,
+              * Coin charts         : https://poocoin.app/tokens/0xded7d6a5347a257723ccf826d3ef4686cef11e14,
+              * LP Value            : 75.11696056772921322 BNB,
+              * LP Pool address is  : 0x1ab79a86916e101901d37c604c3765d21182451f,
+              * Token creator       : 0x2c17b200b2a664aec11454d7c07c7d11a18aefe2,
+              * Creator has         : 0% of a total supply`),
+              * Token holders count : 0;
+        
+
+
+
+
+                7 : [0xc05f332173826d043f981aa258e4bb62f05a7f12] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x6e2b5083fd9c3240305399a4852eff51c93a603ad342394b055ed8b27705f1c2,
+              * Coin charts         : https://poocoin.app/tokens/0x7133446d8c53e5329b9945c7e38245deaf9177ab,
+              * LP Value            : 10.0 BNB,
+              * LP Pool address is  : 0xc05f332173826d043f981aa258e4bb62f05a7f12,
+              * Token creator       : 0xd3dc7794c38b0ee5858adc1971d173b84dcc3806,
+              * Creator has         : 24.66254735611386% of a total supply`),
+              * Token holders count : 9;
+        
+
+
+
+
+                7 : [0xd089255ab14c22ac033a7f930c9d7e259a967ce7] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x5a507d82e48f98910be49ee53227c7e787b8a38d65d0ba30b2056464b62672e2,
+              * Coin charts         : https://poocoin.app/tokens/0xde90458f693eacd00508ae5016867e8beca9596e,
+              * LP Value            : 0.602 BNB,
+              * LP Pool address is  : 0xd089255ab14c22ac033a7f930c9d7e259a967ce7,
+              * Token creator       : 0x0dd313bdc3edcabe2b0b3820c613b019684774b8,
+              * Creator has         : 4.389368119849042% of a total supply`),
+              * Token holders count : 24;
+        
+
+
+
+
+                8 : [0xededd3c23fe0ec5a6144b6b4a7ca81f291d7f1d1] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x192f877fa26ca432fcac3aac6637f089d4ee13147f7c71cc96f94908585f9904,
+              * Coin charts         : https://poocoin.app/tokens/0x90b201171f11928f875a2e338e024b5a19081b3d,
+              * LP Value            : 10.002 BNB,
+              * LP Pool address is  : 0xededd3c23fe0ec5a6144b6b4a7ca81f291d7f1d1,
+              * Token creator       : 0xd3dc7794c38b0ee5858adc1971d173b84dcc3806,
+              * Creator has         : 23.269225586111904% of a total supply`),
+              * Token holders count : 10;
+        
+
+
+
+
+                8 : [0x0ab9447833d38428cf9a839236466d3536772b3f] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xd5597f0b9d7067c3568eca5620bcecce83a12bdaf6b43f32b5cc15bc090fe6df,
+              * Coin charts         : https://poocoin.app/tokens/0x2b2793abd8d321a503bf5c304e99e4db2f8cd4bd,
+              * LP Value            : 4.0 BNB,
+              * LP Pool address is  : 0x0ab9447833d38428cf9a839236466d3536772b3f,
+              * Token creator       : 0x61c7632b49ed2dc9f27d9c9b5480966be1003b1a,
+              * Creator has         : 49.424694740776985% of a total supply`),
+              * Token holders count : 10;
+        
+
+
+
+
+                8 : [0x1996d069b5b3f7dc5f717eb6b9e84ac8fe4b3935] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x0cf5ef1d6ad1097ed9b35e7ac9e8c0b960ee3333320ead1c9cc8adbfe163f08e,
+              * Coin charts         : https://poocoin.app/tokens/0xa93a09aa74422820e916902a3a94830a249f6c9b,
+              * LP Value            : 1.6 BNB,
+              * LP Pool address is  : 0x1996d069b5b3f7dc5f717eb6b9e84ac8fe4b3935,
+              * Token creator       : 0x8bc70438b9427dbac071072b119f414b20142cb0,
+              * Creator has         : 303.78847040074936% of a total supply`),
+              * Token holders count : 18;
+        
+
+
+
+
+                8 : [0x87ef77662d752fbc706731497a1b765d9e51d499] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x45da40f699e169e1e57d04d618722220ce4cb9d70ff15e989a65b077481dedcf,
+              * Coin charts         : https://poocoin.app/tokens/0xb835159b543b5a3d6745bfa08a86656ef99e2f4c,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x87ef77662d752fbc706731497a1b765d9e51d499,
+              * Token creator       : 0xc3c241e4cb32ab4c475a8378585e113b6b4c0dc9,
+              * Creator has         : 28.56588535376765% of a total supply`),
+              * Token holders count : 28;
+        
+
+
+
+
+                8 : [0xf43f6cd70c5bfa1e12f844866c3cc64f307e3959] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xd695fbca68f905cd849d662d25978028cfd747535a5e624f3feefb0d8b2a0c88,
+              * Coin charts         : https://poocoin.app/tokens/0x57d09fc864a89cb720ed75ae106c32200c0fc12c,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0xf43f6cd70c5bfa1e12f844866c3cc64f307e3959,
+              * Token creator       : 0x755c3cb0a27f1e0cd920568a354934f11599c486,
+              * Creator has         : 1.6131297999258092% of a total supply`),
+              * Token holders count : 26;
+        
+
+
+
+
+                8 : [0x16e2e837a7d65ef1ad71a0d6fd1287a964a2889e] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xe367103ccaabd056ea76f3d5cf88efe424fca68fc81a57a062281170a92f9aee,
+              * Coin charts         : https://poocoin.app/tokens/0x6ab5973863690768c248ebb3aa5483939801d074,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x16e2e837a7d65ef1ad71a0d6fd1287a964a2889e,
+              * Token creator       : 0xce6ef5f17fff71f3944186bed833760c1f0016c3,
+              * Creator has         : 0% of a total supply`),
+              * Token holders count : 0;
+        
+
+
+
+
+                8 : [0x1ab79a86916e101901d37c604c3765d21182451f] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x4b0af23e9e45f7f066691ee6394e8403c4539d105346020d686fcea907f03df3,
+              * Coin charts         : https://poocoin.app/tokens/0xded7d6a5347a257723ccf826d3ef4686cef11e14,
+              * LP Value            : 75.11696056772921322 BNB,
+              * LP Pool address is  : 0x1ab79a86916e101901d37c604c3765d21182451f,
+              * Token creator       : 0x2c17b200b2a664aec11454d7c07c7d11a18aefe2,
+              * Creator has         : 0% of a total supply`),
+              * Token holders count : 0;
+        
+
+
+
+
+                8 : [0xc05f332173826d043f981aa258e4bb62f05a7f12] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x6e2b5083fd9c3240305399a4852eff51c93a603ad342394b055ed8b27705f1c2,
+              * Coin charts         : https://poocoin.app/tokens/0x7133446d8c53e5329b9945c7e38245deaf9177ab,
+              * LP Value            : 10.0 BNB,
+              * LP Pool address is  : 0xc05f332173826d043f981aa258e4bb62f05a7f12,
+              * Token creator       : 0xd3dc7794c38b0ee5858adc1971d173b84dcc3806,
+              * Creator has         : 23.270517906615808% of a total supply`),
+              * Token holders count : 9;
+        
+
+
+
+
+                8 : [0xd089255ab14c22ac033a7f930c9d7e259a967ce7] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x5a507d82e48f98910be49ee53227c7e787b8a38d65d0ba30b2056464b62672e2,
+              * Coin charts         : https://poocoin.app/tokens/0xde90458f693eacd00508ae5016867e8beca9596e,
+              * LP Value            : 0.602 BNB,
+              * LP Pool address is  : 0xd089255ab14c22ac033a7f930c9d7e259a967ce7,
+              * Token creator       : 0x0dd313bdc3edcabe2b0b3820c613b019684774b8,
+              * Creator has         : 4.389368119849042% of a total supply`),
+              * Token holders count : 24;
+        
+
+
+
+
+                9 : [0x1996d069b5b3f7dc5f717eb6b9e84ac8fe4b3935] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x0cf5ef1d6ad1097ed9b35e7ac9e8c0b960ee3333320ead1c9cc8adbfe163f08e,
+              * Coin charts         : https://poocoin.app/tokens/0xa93a09aa74422820e916902a3a94830a249f6c9b,
+              * LP Value            : 1.6 BNB,
+              * LP Pool address is  : 0x1996d069b5b3f7dc5f717eb6b9e84ac8fe4b3935,
+              * Token creator       : 0x8bc70438b9427dbac071072b119f414b20142cb0,
+              * Creator has         : 303.78847040074936% of a total supply`),
+              * Token holders count : 18;
+        
+
+
+
+
+                9 : [0x0ab9447833d38428cf9a839236466d3536772b3f] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xd5597f0b9d7067c3568eca5620bcecce83a12bdaf6b43f32b5cc15bc090fe6df,
+              * Coin charts         : https://poocoin.app/tokens/0x2b2793abd8d321a503bf5c304e99e4db2f8cd4bd,
+              * LP Value            : 4.0 BNB,
+              * LP Pool address is  : 0x0ab9447833d38428cf9a839236466d3536772b3f,
+              * Token creator       : 0x61c7632b49ed2dc9f27d9c9b5480966be1003b1a,
+              * Creator has         : 49.424694740776985% of a total supply`),
+              * Token holders count : 10;
+        
+
+
+
+
+                9 : [0xededd3c23fe0ec5a6144b6b4a7ca81f291d7f1d1] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x192f877fa26ca432fcac3aac6637f089d4ee13147f7c71cc96f94908585f9904,
+              * Coin charts         : https://poocoin.app/tokens/0x90b201171f11928f875a2e338e024b5a19081b3d,
+              * LP Value            : 10.002 BNB,
+              * LP Pool address is  : 0xededd3c23fe0ec5a6144b6b4a7ca81f291d7f1d1,
+              * Token creator       : 0xd3dc7794c38b0ee5858adc1971d173b84dcc3806,
+              * Creator has         : 23.269225586111904% of a total supply`),
+              * Token holders count : 11;
+        
+
+
+
+
+                9 : [0x87ef77662d752fbc706731497a1b765d9e51d499] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x45da40f699e169e1e57d04d618722220ce4cb9d70ff15e989a65b077481dedcf,
+              * Coin charts         : https://poocoin.app/tokens/0xb835159b543b5a3d6745bfa08a86656ef99e2f4c,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x87ef77662d752fbc706731497a1b765d9e51d499,
+              * Token creator       : 0xc3c241e4cb32ab4c475a8378585e113b6b4c0dc9,
+              * Creator has         : 28.56588535376765% of a total supply`),
+              * Token holders count : 28;
+        
+
+
+
+
+                9 : [0xf43f6cd70c5bfa1e12f844866c3cc64f307e3959] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xd695fbca68f905cd849d662d25978028cfd747535a5e624f3feefb0d8b2a0c88,
+              * Coin charts         : https://poocoin.app/tokens/0x57d09fc864a89cb720ed75ae106c32200c0fc12c,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0xf43f6cd70c5bfa1e12f844866c3cc64f307e3959,
+              * Token creator       : 0x755c3cb0a27f1e0cd920568a354934f11599c486,
+              * Creator has         : 1.6131297999258092% of a total supply`),
+              * Token holders count : 26;
+        
+
+
+
+
+                9 : [0x16e2e837a7d65ef1ad71a0d6fd1287a964a2889e] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xe367103ccaabd056ea76f3d5cf88efe424fca68fc81a57a062281170a92f9aee,
+              * Coin charts         : https://poocoin.app/tokens/0x6ab5973863690768c248ebb3aa5483939801d074,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x16e2e837a7d65ef1ad71a0d6fd1287a964a2889e,
+              * Token creator       : 0xce6ef5f17fff71f3944186bed833760c1f0016c3,
+              * Creator has         : 0% of a total supply`),
+              * Token holders count : 0;
+        
+
+
+
+
+                9 : [0x1ab79a86916e101901d37c604c3765d21182451f] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x4b0af23e9e45f7f066691ee6394e8403c4539d105346020d686fcea907f03df3,
+              * Coin charts         : https://poocoin.app/tokens/0xded7d6a5347a257723ccf826d3ef4686cef11e14,
+              * LP Value            : 75.11696056772921322 BNB,
+              * LP Pool address is  : 0x1ab79a86916e101901d37c604c3765d21182451f,
+              * Token creator       : 0x2c17b200b2a664aec11454d7c07c7d11a18aefe2,
+              * Creator has         : 0% of a total supply`),
+              * Token holders count : 0;
+        
+
+
+
+
+                9 : [0xc05f332173826d043f981aa258e4bb62f05a7f12] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x6e2b5083fd9c3240305399a4852eff51c93a603ad342394b055ed8b27705f1c2,
+              * Coin charts         : https://poocoin.app/tokens/0x7133446d8c53e5329b9945c7e38245deaf9177ab,
+              * LP Value            : 10.0 BNB,
+              * LP Pool address is  : 0xc05f332173826d043f981aa258e4bb62f05a7f12,
+              * Token creator       : 0xd3dc7794c38b0ee5858adc1971d173b84dcc3806,
+              * Creator has         : 23.270517906615808% of a total supply`),
+              * Token holders count : 10;
+        
+
+
+
+
+                9 : [0xd089255ab14c22ac033a7f930c9d7e259a967ce7] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x5a507d82e48f98910be49ee53227c7e787b8a38d65d0ba30b2056464b62672e2,
+              * Coin charts         : https://poocoin.app/tokens/0xde90458f693eacd00508ae5016867e8beca9596e,
+              * LP Value            : 0.602 BNB,
+              * LP Pool address is  : 0xd089255ab14c22ac033a7f930c9d7e259a967ce7,
+              * Token creator       : 0x0dd313bdc3edcabe2b0b3820c613b019684774b8,
+              * Creator has         : 4.389368119849042% of a total supply`),
+              * Token holders count : 24;
+        
+
+
+
+
+                10 : [0xededd3c23fe0ec5a6144b6b4a7ca81f291d7f1d1] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x192f877fa26ca432fcac3aac6637f089d4ee13147f7c71cc96f94908585f9904,
+              * Coin charts         : https://poocoin.app/tokens/0x90b201171f11928f875a2e338e024b5a19081b3d,
+              * LP Value            : 10.002 BNB,
+              * LP Pool address is  : 0xededd3c23fe0ec5a6144b6b4a7ca81f291d7f1d1,
+              * Token creator       : 0xd3dc7794c38b0ee5858adc1971d173b84dcc3806,
+              * Creator has         : 23.269225586111904% of a total supply`),
+              * Token holders count : 11;
+        
+Token 0x90b201171f11928f875a2e338e024b5a19081b3d has been successfully checked 10 times!!
+Saved!
+
+
+
+
+                10 : [0x1996d069b5b3f7dc5f717eb6b9e84ac8fe4b3935] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x0cf5ef1d6ad1097ed9b35e7ac9e8c0b960ee3333320ead1c9cc8adbfe163f08e,
+              * Coin charts         : https://poocoin.app/tokens/0xa93a09aa74422820e916902a3a94830a249f6c9b,
+              * LP Value            : 1.6 BNB,
+              * LP Pool address is  : 0x1996d069b5b3f7dc5f717eb6b9e84ac8fe4b3935,
+              * Token creator       : 0x8bc70438b9427dbac071072b119f414b20142cb0,
+              * Creator has         : 303.78847040074936% of a total supply`),
+              * Token holders count : 18;
+        
+Token 0xa93a09aa74422820e916902a3a94830a249f6c9b has been successfully checked 10 times!!
+
+
+
+
+                10 : [0x87ef77662d752fbc706731497a1b765d9e51d499] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x45da40f699e169e1e57d04d618722220ce4cb9d70ff15e989a65b077481dedcf,
+              * Coin charts         : https://poocoin.app/tokens/0xb835159b543b5a3d6745bfa08a86656ef99e2f4c,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x87ef77662d752fbc706731497a1b765d9e51d499,
+              * Token creator       : 0xc3c241e4cb32ab4c475a8378585e113b6b4c0dc9,
+              * Creator has         : 28.56588535376765% of a total supply`),
+              * Token holders count : 28;
+        
+Token 0xb835159b543b5a3d6745bfa08a86656ef99e2f4c has been successfully checked 10 times!!
+Saved!
+Saved!
+
+
+
+
+                10 : [0x0ab9447833d38428cf9a839236466d3536772b3f] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xd5597f0b9d7067c3568eca5620bcecce83a12bdaf6b43f32b5cc15bc090fe6df,
+              * Coin charts         : https://poocoin.app/tokens/0x2b2793abd8d321a503bf5c304e99e4db2f8cd4bd,
+              * LP Value            : 4.0 BNB,
+              * LP Pool address is  : 0x0ab9447833d38428cf9a839236466d3536772b3f,
+              * Token creator       : 0x61c7632b49ed2dc9f27d9c9b5480966be1003b1a,
+              * Creator has         : 49.424694740776985% of a total supply`),
+              * Token holders count : 10;
+        
+Token 0x2b2793abd8d321a503bf5c304e99e4db2f8cd4bd has been successfully checked 10 times!!
+Saved!
+
+
+
+
+                10 : [0xf43f6cd70c5bfa1e12f844866c3cc64f307e3959] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xd695fbca68f905cd849d662d25978028cfd747535a5e624f3feefb0d8b2a0c88,
+              * Coin charts         : https://poocoin.app/tokens/0x57d09fc864a89cb720ed75ae106c32200c0fc12c,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0xf43f6cd70c5bfa1e12f844866c3cc64f307e3959,
+              * Token creator       : 0x755c3cb0a27f1e0cd920568a354934f11599c486,
+              * Creator has         : 1.6131297999258092% of a total supply`),
+              * Token holders count : 26;
+        
+Token 0x57d09fc864a89cb720ed75ae106c32200c0fc12c has been successfully checked 10 times!!
+Saved!
+
+
+
+
+                10 : [0x16e2e837a7d65ef1ad71a0d6fd1287a964a2889e] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xe367103ccaabd056ea76f3d5cf88efe424fca68fc81a57a062281170a92f9aee,
+              * Coin charts         : https://poocoin.app/tokens/0x6ab5973863690768c248ebb3aa5483939801d074,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x16e2e837a7d65ef1ad71a0d6fd1287a964a2889e,
+              * Token creator       : 0xce6ef5f17fff71f3944186bed833760c1f0016c3,
+              * Creator has         : 0% of a total supply`),
+              * Token holders count : 0;
+        
+Token 0x6ab5973863690768c248ebb3aa5483939801d074 has been successfully checked 10 times!!
+
+
+
+
+                10 : [0x1ab79a86916e101901d37c604c3765d21182451f] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x4b0af23e9e45f7f066691ee6394e8403c4539d105346020d686fcea907f03df3,
+              * Coin charts         : https://poocoin.app/tokens/0xded7d6a5347a257723ccf826d3ef4686cef11e14,
+              * LP Value            : 75.11696056772921322 BNB,
+              * LP Pool address is  : 0x1ab79a86916e101901d37c604c3765d21182451f,
+              * Token creator       : 0x2c17b200b2a664aec11454d7c07c7d11a18aefe2,
+              * Creator has         : 0% of a total supply`),
+              * Token holders count : 0;
+        
+Token 0xded7d6a5347a257723ccf826d3ef4686cef11e14 has been successfully checked 10 times!!
+
+
+
+
+                10 : [0xc05f332173826d043f981aa258e4bb62f05a7f12] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x6e2b5083fd9c3240305399a4852eff51c93a603ad342394b055ed8b27705f1c2,
+              * Coin charts         : https://poocoin.app/tokens/0x7133446d8c53e5329b9945c7e38245deaf9177ab,
+              * LP Value            : 10.0 BNB,
+              * LP Pool address is  : 0xc05f332173826d043f981aa258e4bb62f05a7f12,
+              * Token creator       : 0xd3dc7794c38b0ee5858adc1971d173b84dcc3806,
+              * Creator has         : 23.270517906615808% of a total supply`),
+              * Token holders count : 10;
+        
+Token 0x7133446d8c53e5329b9945c7e38245deaf9177ab has been successfully checked 10 times!!
+Saved!
+
+
+
+
+                10 : [0xd089255ab14c22ac033a7f930c9d7e259a967ce7] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x5a507d82e48f98910be49ee53227c7e787b8a38d65d0ba30b2056464b62672e2,
+              * Coin charts         : https://poocoin.app/tokens/0xde90458f693eacd00508ae5016867e8beca9596e,
+              * LP Value            : 0.602 BNB,
+              * LP Pool address is  : 0xd089255ab14c22ac033a7f930c9d7e259a967ce7,
+              * Token creator       : 0x0dd313bdc3edcabe2b0b3820c613b019684774b8,
+              * Creator has         : 4.389368119849042% of a total supply`),
+              * Token holders count : 24;
+        
+Token 0xde90458f693eacd00508ae5016867e8beca9596e has been successfully checked 10 times!!
+Saved!
+starting to listen events...
+
+
+
+
+                 New pair created                                  
+Pair infos : 
+      =================
+      * Transaction receipt : https://www.bscscan.com/tx/0x77fb9d85b538e90b4992a9a881617a6391a37778dade52e166fe2966576c8bf6,
+      * Coin charts         : https://poocoin.app/tokens/0x24bcef37ae5e3b774a0c616943809ee52e0c40fe,
+      * LP Value            : 0.0 BNB,
+      * LP Pool address is  : 0x74b86ce1034ad5408dd8f51a93c4513c8e55111d,
+      * Token creator       : 0x4e9664906d50ffb7d372883ebac17d7ddc2152f8,
+      * Creator has         : 0% of a total supply`),
+      * Token holders count : 0;
+    
+
+
+
+
+                 New pair created                                  
+Pair infos : 
+      =================
+      * Transaction receipt : https://www.bscscan.com/tx/0xa1ef14c251c1e23ba701bfb209201d5cdb88237fa440e19beeea7a3840328664,
+      * Coin charts         : https://poocoin.app/tokens/0x0f9380c4026e175d6ab31a069b74cef6dd9d5ad6,
+      * LP Value            : 0.0 BNB,
+      * LP Pool address is  : 0xd254365e68209043735e6237e2daef44fef681a0,
+      * Token creator       : 0x291c340a54caee120bc18472b669e44cb437dda5,
+      * Creator has         : 0% of a total supply`),
+      * Token holders count : 0;
+    
+
+
+
+
+                1 : [0x74b86ce1034ad5408dd8f51a93c4513c8e55111d] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x77fb9d85b538e90b4992a9a881617a6391a37778dade52e166fe2966576c8bf6,
+              * Coin charts         : https://poocoin.app/tokens/0x24bcef37ae5e3b774a0c616943809ee52e0c40fe,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x74b86ce1034ad5408dd8f51a93c4513c8e55111d,
+              * Token creator       : 0x4e9664906d50ffb7d372883ebac17d7ddc2152f8,
+              * Creator has         : 100% of a total supply`),
+              * Token holders count : 1;
+        
+
+
+
+
+                1 : [0xd254365e68209043735e6237e2daef44fef681a0] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xa1ef14c251c1e23ba701bfb209201d5cdb88237fa440e19beeea7a3840328664,
+              * Coin charts         : https://poocoin.app/tokens/0x0f9380c4026e175d6ab31a069b74cef6dd9d5ad6,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0xd254365e68209043735e6237e2daef44fef681a0,
+              * Token creator       : 0x291c340a54caee120bc18472b669e44cb437dda5,
+              * Creator has         : 100% of a total supply`),
+              * Token holders count : 1;
+        
+
+
+
+
+                2 : [0x74b86ce1034ad5408dd8f51a93c4513c8e55111d] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x77fb9d85b538e90b4992a9a881617a6391a37778dade52e166fe2966576c8bf6,
+              * Coin charts         : https://poocoin.app/tokens/0x24bcef37ae5e3b774a0c616943809ee52e0c40fe,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x74b86ce1034ad5408dd8f51a93c4513c8e55111d,
+              * Token creator       : 0x4e9664906d50ffb7d372883ebac17d7ddc2152f8,
+              * Creator has         : 100% of a total supply`),
+              * Token holders count : 1;
+        
+
+
+
+
+                2 : [0xd254365e68209043735e6237e2daef44fef681a0] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xa1ef14c251c1e23ba701bfb209201d5cdb88237fa440e19beeea7a3840328664,
+              * Coin charts         : https://poocoin.app/tokens/0x0f9380c4026e175d6ab31a069b74cef6dd9d5ad6,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0xd254365e68209043735e6237e2daef44fef681a0,
+              * Token creator       : 0x291c340a54caee120bc18472b669e44cb437dda5,
+              * Creator has         : 100% of a total supply`),
+              * Token holders count : 1;
+        
+
+
+
+
+                3 : [0x74b86ce1034ad5408dd8f51a93c4513c8e55111d] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x77fb9d85b538e90b4992a9a881617a6391a37778dade52e166fe2966576c8bf6,
+              * Coin charts         : https://poocoin.app/tokens/0x24bcef37ae5e3b774a0c616943809ee52e0c40fe,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x74b86ce1034ad5408dd8f51a93c4513c8e55111d,
+              * Token creator       : 0x4e9664906d50ffb7d372883ebac17d7ddc2152f8,
+              * Creator has         : 100% of a total supply`),
+              * Token holders count : 1;
+        
+
+
+
+
+                3 : [0xd254365e68209043735e6237e2daef44fef681a0] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xa1ef14c251c1e23ba701bfb209201d5cdb88237fa440e19beeea7a3840328664,
+              * Coin charts         : https://poocoin.app/tokens/0x0f9380c4026e175d6ab31a069b74cef6dd9d5ad6,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0xd254365e68209043735e6237e2daef44fef681a0,
+              * Token creator       : 0x291c340a54caee120bc18472b669e44cb437dda5,
+              * Creator has         : 87.92124842897526% of a total supply`),
+              * Token holders count : 10;
+        
+
+
+
+
+                4 : [0x74b86ce1034ad5408dd8f51a93c4513c8e55111d] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x77fb9d85b538e90b4992a9a881617a6391a37778dade52e166fe2966576c8bf6,
+              * Coin charts         : https://poocoin.app/tokens/0x24bcef37ae5e3b774a0c616943809ee52e0c40fe,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x74b86ce1034ad5408dd8f51a93c4513c8e55111d,
+              * Token creator       : 0x4e9664906d50ffb7d372883ebac17d7ddc2152f8,
+              * Creator has         : 100% of a total supply`),
+              * Token holders count : 1;
+        
+
+
+
+
+                4 : [0xd254365e68209043735e6237e2daef44fef681a0] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xa1ef14c251c1e23ba701bfb209201d5cdb88237fa440e19beeea7a3840328664,
+              * Coin charts         : https://poocoin.app/tokens/0x0f9380c4026e175d6ab31a069b74cef6dd9d5ad6,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0xd254365e68209043735e6237e2daef44fef681a0,
+              * Token creator       : 0x291c340a54caee120bc18472b669e44cb437dda5,
+              * Creator has         : 87.92124842897526% of a total supply`),
+              * Token holders count : 10;
+        
+
+
+
+
+                5 : [0x74b86ce1034ad5408dd8f51a93c4513c8e55111d] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x77fb9d85b538e90b4992a9a881617a6391a37778dade52e166fe2966576c8bf6,
+              * Coin charts         : https://poocoin.app/tokens/0x24bcef37ae5e3b774a0c616943809ee52e0c40fe,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x74b86ce1034ad5408dd8f51a93c4513c8e55111d,
+              * Token creator       : 0x4e9664906d50ffb7d372883ebac17d7ddc2152f8,
+              * Creator has         : 100% of a total supply`),
+              * Token holders count : 1;
+        
+
+
+
+
+                5 : [0xd254365e68209043735e6237e2daef44fef681a0] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xa1ef14c251c1e23ba701bfb209201d5cdb88237fa440e19beeea7a3840328664,
+              * Coin charts         : https://poocoin.app/tokens/0x0f9380c4026e175d6ab31a069b74cef6dd9d5ad6,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0xd254365e68209043735e6237e2daef44fef681a0,
+              * Token creator       : 0x291c340a54caee120bc18472b669e44cb437dda5,
+              * Creator has         : 87.92124842897526% of a total supply`),
+              * Token holders count : 10;
+        
+
+
+
+
+                6 : [0x74b86ce1034ad5408dd8f51a93c4513c8e55111d] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0x77fb9d85b538e90b4992a9a881617a6391a37778dade52e166fe2966576c8bf6,
+              * Coin charts         : https://poocoin.app/tokens/0x24bcef37ae5e3b774a0c616943809ee52e0c40fe,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0x74b86ce1034ad5408dd8f51a93c4513c8e55111d,
+              * Token creator       : 0x4e9664906d50ffb7d372883ebac17d7ddc2152f8,
+              * Creator has         : 100% of a total supply`),
+              * Token holders count : 1;
+        
+
+
+
+
+                6 : [0xd254365e68209043735e6237e2daef44fef681a0] : Recheck                                
+Pair infos : 
+            =================
+              * Transaction receipt : https://www.bscscan.com/tx/0xa1ef14c251c1e23ba701bfb209201d5cdb88237fa440e19beeea7a3840328664,
+              * Coin charts         : https://poocoin.app/tokens/0x0f9380c4026e175d6ab31a069b74cef6dd9d5ad6,
+              * LP Value            : 0.0 BNB,
+              * LP Pool address is  : 0xd254365e68209043735e6237e2daef44fef681a0,
+              * Token creator       : 0x291c340a54caee120bc18472b669e44cb437dda5,
+              * Creator has         : 87.92124842897526% of a total supply`),
+              * Token holders count : 10;
+        
+starting to listen events...
+starting to listen events...

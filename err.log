@@ -1,0 +1,38 @@
+events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: getaddrinfo ENOTFOUND bsc-ws-node.nariox.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26)
+Emitted 'error' event on WebSocket instance at:
+    at ClientRequest.<anonymous> (/Users/nikitaterekhov/Projects/Snippers/bot-pancakeswap/node_modules/ws/lib/websocket.js:555:15)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:469:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:106:8)
+    at emitErrorCloseNT (internal/streams/destroy.js:74:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'bsc-ws-node.nariox.org'
+}
+events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: getaddrinfo ENOTFOUND bsc-ws-node.nariox.org
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26)
+Emitted 'error' event on WebSocket instance at:
+    at ClientRequest.<anonymous> (/Users/nikitaterekhov/Projects/Snippers/bot-pancakeswap/node_modules/ws/lib/websocket.js:555:15)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:469:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:106:8)
+    at emitErrorCloseNT (internal/streams/destroy.js:74:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'bsc-ws-node.nariox.org'
+}

@@ -1,0 +1,393 @@
+[
+{
+    "pairAddr": "0xededd3c23fe0ec5a6144b6b4a7ca81f291d7f1d1",
+    "txHash": "0x192f877fa26ca432fcac3aac6637f089d4ee13147f7c71cc96f94908585f9904",
+    "creatorHolds": 0.23269225586111905,
+    "holdersCount": 11,
+    "pairBNBValue": {
+        "type": "BigNumber",
+        "hex": "0x8ace3e01d3750000"
+    },
+    "LPValue": "10.002",
+    "newTokenAddr": "0x90b201171f11928f875a2e338e024b5a19081b3d",
+    "tokenCreator": "0xd3dc7794c38b0ee5858adc1971d173b84dcc3806"
+},
+{
+    "pairAddr": "0x1996d069b5b3f7dc5f717eb6b9e84ac8fe4b3935",
+    "txHash": "0x0cf5ef1d6ad1097ed9b35e7ac9e8c0b960ee3333320ead1c9cc8adbfe163f08e",
+    "creatorHolds": 3.0378847040074937,
+    "holdersCount": 18,
+    "pairBNBValue": {
+        "type": "BigNumber",
+        "hex": "0x16345785d8a00000"
+    },
+    "LPValue": "1.6",
+    "newTokenAddr": "0xa93a09aa74422820e916902a3a94830a249f6c9b",
+    "tokenCreator": "0x8bc70438b9427dbac071072b119f414b20142cb0"
+},
+{
+    "pairAddr": "0x87ef77662d752fbc706731497a1b765d9e51d499",
+    "txHash": "0x45da40f699e169e1e57d04d618722220ce4cb9d70ff15e989a65b077481dedcf",
+    "creatorHolds": 0.2856588535376765,
+    "holdersCount": 28,
+    "pairBNBValue": {
+        "type": "BigNumber",
+        "hex": "0x00"
+    },
+    "LPValue": "0.0",
+    "newTokenAddr": "0xb835159b543b5a3d6745bfa08a86656ef99e2f4c",
+    "tokenCreator": "0xc3c241e4cb32ab4c475a8378585e113b6b4c0dc9"
+},
+{
+    "pairAddr": "0x0ab9447833d38428cf9a839236466d3536772b3f",
+    "txHash": "0xd5597f0b9d7067c3568eca5620bcecce83a12bdaf6b43f32b5cc15bc090fe6df",
+    "creatorHolds": 0.49424694740776987,
+    "holdersCount": 10,
+    "pairBNBValue": {
+        "type": "BigNumber",
+        "hex": "0x3782dace9d900000"
+    },
+    "LPValue": "4.0",
+    "newTokenAddr": "0x2b2793abd8d321a503bf5c304e99e4db2f8cd4bd",
+    "tokenCreator": "0x61c7632b49ed2dc9f27d9c9b5480966be1003b1a"
+},
+{
+    "pairAddr": "0xf43f6cd70c5bfa1e12f844866c3cc64f307e3959",
+    "txHash": "0xd695fbca68f905cd849d662d25978028cfd747535a5e624f3feefb0d8b2a0c88",
+    "creatorHolds": 0.016131297999258092,
+    "holdersCount": 26,
+    "pairBNBValue": {
+        "type": "BigNumber",
+        "hex": "0x00"
+    },
+    "LPValue": "0.0",
+    "newTokenAddr": "0x57d09fc864a89cb720ed75ae106c32200c0fc12c",
+    "tokenCreator": "0x755c3cb0a27f1e0cd920568a354934f11599c486"
+},
+{
+    "pairAddr": "0xc05f332173826d043f981aa258e4bb62f05a7f12",
+    "txHash": "0x6e2b5083fd9c3240305399a4852eff51c93a603ad342394b055ed8b27705f1c2",
+    "creatorHolds": 0.2327051790661581,
+    "holdersCount": 10,
+    "pairBNBValue": {
+        "type": "BigNumber",
+        "hex": "0x8ac7230489e80000"
+    },
+    "LPValue": "10.0",
+    "newTokenAddr": "0x7133446d8c53e5329b9945c7e38245deaf9177ab",
+    "tokenCreator": "0xd3dc7794c38b0ee5858adc1971d173b84dcc3806"
+},
+{
+    "pairAddr": "0xd089255ab14c22ac033a7f930c9d7e259a967ce7",
+    "txHash": "0x5a507d82e48f98910be49ee53227c7e787b8a38d65d0ba30b2056464b62672e2",
+    "creatorHolds": 0.043893681198490415,
+    "holdersCount": 24,
+    "pairBNBValue": {
+        "type": "BigNumber",
+        "hex": "0x085abbcf7ac90000"
+    },
+    "LPValue": "0.602",
+    "newTokenAddr": "0xde90458f693eacd00508ae5016867e8beca9596e",
+    "tokenCreator": "0x0dd313bdc3edcabe2b0b3820c613b019684774b8"
+},
+{
+    "pairAddr": "0xfe6e9bb9b5fd614ee5ec3a47c8b200a1cbbd10d9",
+    "txHash": "0x74ae602edb004a26f7a9177af5e95a3ff4998193413505d7949f3df2124d2752",
+    "creatorHolds": 0.9199999999999999,
+    "holdersCount": 2,
+    "creatorHoldsLP": 0,
+    "holdersCountLP": 0,
+    "pairMATICValue": {
+        "type": "BigNumber",
+        "hex": "0x00"
+    },
+    "LPValue": "0.0",
+    "newTokenAddr": "0xa049813ed6efc7b9b76836a99029d44e38341940",
+    "tokenCreator": "0x73a6ce2faf82aa17534bbca938068c854b266fb1"
+},
+{
+    "pairAddr": "0xebc87930fea761f5e7fcfcbf6166f732c4bf7e4c",
+    "txHash": "0x4745eba72e2b9433e5d5352dfa6446edade2f85ad0dd5e7ad1e17bf2fba3d3e1",
+    "creatorHolds": 0.3333333333333333,
+    "holdersCount": 14,
+    "creatorHoldsLP": 0.9999999999990408,
+    "holdersCountLP": 1,
+    "pairMATICValue": {
+        "type": "BigNumber",
+        "hex": "0x00"
+    },
+    "LPValue": "0.0",
+    "newTokenAddr": "0xbc2555cb9be48a783c92f1b666e7f01d0cfd483b",
+    "tokenCreator": "0x83cd81ef48106b8495bd020f17d851cf3ba074cc"
+},
+{
+    "pairAddr": "0x78bad5c713be01b755b8910aaef39cdbb639a4c2",
+    "txHash": "0xf1e67734fc30726b47c27c8647d7f5944d7d8f0fb1431789a37e91d5e18962d1",
+    "creatorHolds": 0.6434234069685599,
+    "holdersCount": 5,
+    "creatorHoldsLP": 0,
+    "holdersCountLP": 0,
+    "pairMATICValue": {
+        "type": "BigNumber",
+        "hex": "0x0de0b6b3a7640000"
+    },
+    "LPValue": "1.0",
+    "newTokenAddr": "0x375d100ac57a3c2c34461f2ce04e612cdd5ca013",
+    "tokenCreator": "0x42d7d1d17d7881466ab399e270a99459a1a3fd4a"
+},
+{
+    "pairAddr": "0xbfa71e12d52491f0f2c9b2db7a69741ac8c67630",
+    "txHash": "0xe1fbbaea9b580a36f7a72d340d6ea4fb7e4a1327ecf3760e96d3cc858c3ac7db",
+    "creatorHolds": 0.44800780383957,
+    "holdersCount": 5,
+    "creatorHoldsLP": 0.9999999999999957,
+    "holdersCountLP": 1,
+    "totalSupply": "100000000000000",
+    "pairMATICValue": {
+        "type": "BigNumber",
+        "hex": "0x3635c9adc5dea00000"
+    },
+    "LPValue": "1000.0",
+    "newTokenAddr": "0x6176840f962447e21463b3049462e1881c736e9c",
+    "tokenCreator": "0x86ff2b3fa1577e44a5ed02a38b41b8989562bb3e"
+},
+{
+    "pairAddr": "0x93567c24ed91f6085a1af1482944590070234e83",
+    "txHash": "0xf6f45241e52b3b4bb8ad6e0f2215b6d71223455fbbdd4f39e1cccbbef0b1d8d6",
+    "creatorHolds": 0.9995028782884615,
+    "holdersCount": 3,
+    "creatorHoldsLP": 0.9999999980659006,
+    "holdersCountLP": 2,
+    "totalSupply": "500000000000000000000000000",
+    "pairMATICValue": {
+        "type": "BigNumber",
+        "hex": "0x246139ca8000"
+    },
+    "LPValue": "0.00004",
+    "newTokenAddr": "0x9b71b5511998e0798625b8fa74e86d8192de78c1",
+    "tokenCreator": "0x10f78f2a70b52e6c3b490113c72ba9a90ff1b5ca"
+},
+{
+    "pairAddr": "0x1ea0380eddd2dd445ee18d59f0589055fb32a0df",
+    "txHash": "0x23afa4a46807c5a348b071e6e0c1077b4aaf7eecca9015fd93adc1cc1cd91f92",
+    "creatorHolds": 0.9971319609901746,
+    "holdersCount": 2,
+    "creatorHoldsLP": 0.999999999999998,
+    "holdersCountLP": 1,
+    "totalSupply": "43932456834912834376",
+    "pairMATICValue": {
+        "type": "BigNumber",
+        "hex": "0x00"
+    },
+    "LPValue": "0.0",
+    "newTokenAddr": "0x50ab0c3a717ea47528a59515f526c4c157f06abc",
+    "tokenCreator": "0x9cfdb0bee1f358ae0a305cf5de7783ce0df9073d"
+},
+{
+    "pairAddr": "0xa9a1525198f00cbed092d4d738f8d27dda0aaf2e",
+    "txHash": "0xbcc745f15ddb4a6d39a447fa3b0db90cbb04f25d09d8c61ed399caee66e31737",
+    "creatorHolds": 0.9999982641476637,
+    "holdersCount": 3,
+    "creatorHoldsLP": 0,
+    "holdersCountLP": 0,
+    "totalSupply": "10000000000000000000000",
+    "pairMATICValue": {
+        "type": "BigNumber",
+        "hex": "0x0de0b6b3a7640000"
+    },
+    "LPValue": "1.0",
+    "newTokenAddr": "0x67880cd5ecf5e979b89962b18fa2fff3c8b8aa6d",
+    "tokenCreator": "0xb3d4a9370f455ef64551cfa16466ba58766905ee"
+},
+{
+    "pairAddr": "0x6afe9daee935a4795f583f3675a1710bea9abf08",
+    "txHash": "0x0a5a2117f239a03bc625936e0dc7f6e7a9d431290c3410e74357f88f7b4eff03",
+    "creatorHolds": 0.9927083333333333,
+    "holdersCount": 13,
+    "creatorHoldsLP": 0.9999999999999996,
+    "holdersCountLP": 1,
+    "totalSupply": "90000000000000000",
+    "pairMATICValue": {
+        "type": "BigNumber",
+        "hex": "0x021e19e0c9bab2400000"
+    },
+    "LPValue": "10000.0",
+    "newTokenAddr": "0x6d78a432a26cf4d17d4accecf43669167ddf741d",
+    "tokenCreator": "0xc8eb0128f9fe44d4527cdbcb88b2c1a8f9f9c3f7"
+},
+{
+    "pairAddr": "0xefce6a7098c3dbe89cf95cac40002d819b013ec2",
+    "txHash": "0x31b8f6b07c9e79bcd3edcf8e54e3099adc11641497494c273007f2bef949db11",
+    "creatorHolds": 0.00935950055774111,
+    "holdersCount": 100,
+    "creatorHoldsLP": 0,
+    "holdersCountLP": 0,
+    "totalSupply": "90000000000000000000000000",
+    "pairMATICValue": {
+        "type": "BigNumber",
+        "hex": "0x0ed2b525841adfc00000"
+    },
+    "LPValue": "70000.0",
+    "newTokenAddr": "0x43a876a942b43f15cc3950c145b8cf9547bb2e1e",
+    "tokenCreator": "0x05b47b3250d569283db6df452f289a5c42c2848d"
+},
+{
+    "pairAddr": "0x2fc0c47fd392003f3877e192c33e7f2edb3526a4",
+    "txHash": "0x4b4c75d6d8c8c4a20337cc7e50f715ef01cc1088dfc4c3cd697edf15d13b7790",
+    "creatorHolds": 1,
+    "holdersCount": 1,
+    "creatorHoldsLP": 0,
+    "holdersCountLP": 0,
+    "totalSupply": "1000000000000000000000000",
+    "pairMATICValue": {
+        "type": "BigNumber",
+        "hex": "0x00"
+    },
+    "LPValue": "0.0",
+    "newTokenAddr": "0xd5bb04b1d2091dc8a187e031e9f8e16599850c90",
+    "tokenCreator": "0x1fa2dcf61e7a365a74859569ac16c11ed5c7cea0"
+},
+{
+    "pairAddr": "0x8577f5c54db627696dd29b5d15bdb04d24018fc4",
+    "txHash": "0x1cde337c98900c6e426ccc01a87283fc315ca543afe99b18ebb0d943506a8b73",
+    "creatorHolds": 0.9947619047619048,
+    "holdersCount": 3,
+    "creatorHoldsLP": 0.9999999999999,
+    "holdersCountLP": 1,
+    "totalSupply": "21000000000000000000000000",
+    "pairMATICValue": {
+        "type": "BigNumber",
+        "hex": "0x00"
+    },
+    "LPValue": "0.0",
+    "newTokenAddr": "0x0705fbdce030c17637367608845991458229a667",
+    "tokenCreator": "0xad33802231d755c5924e6c0de0e7f37dbbe1a475"
+},
+{
+    "pairAddr": "0x23dbfd7d649823f43b639d15003152fb579994e8",
+    "txHash": "0xc5e4a13715130896bfd0def40f0e2a96152bf5941beca275c564b02c2c6d314d",
+    "creatorHolds": 0.075,
+    "holdersCount": 44,
+    "creatorHoldsLP": 0,
+    "holdersCountLP": 0,
+    "totalSupply": "2000000000000000000000",
+    "pairMATICValue": {
+        "type": "BigNumber",
+        "hex": "0x4e2813c16e34366660"
+    },
+    "LPValue": "1441.733902214486189664",
+    "newTokenAddr": "0x2a3f400301bb87986168c3d057460e4e784f6ab9",
+    "tokenCreator": "0xa711d41b7af02ebb65fa3a27ab78955c4bf3f3f7"
+},
+{
+    "pairAddr": "0x423adf870ba77e7709a0839a56d54e73e680dcb8",
+    "txHash": "0xed7d6b2b70ec6b27c327dc0fa20f38e593f89e9b2d6d210a266fe75dd3473307",
+    "creatorHolds": 0.013691780821917809,
+    "holdersCount": 8,
+    "creatorHoldsLP": 0.9999999999999999,
+    "holdersCountLP": 1,
+    "totalSupply": "146000000000000000000000",
+    "pairMATICValue": {
+        "type": "BigNumber",
+        "hex": "0x038771a915ddee0000"
+    },
+    "LPValue": "65.1",
+    "newTokenAddr": "0xbe9104267b786c36bc28011fbe49b6172a67f858",
+    "tokenCreator": "0xcf1396257990670748ddb3585af4b120933e4d8a"
+},
+{
+    "pairAddr": "0x98d1759212cf431e921a32709d15522e2749b111",
+    "txHash": "0x42ffd38cc5c5844539269b17657d9b5e3cf99efdf8d6d5a75b06bcc3c5b8c9ea",
+    "creatorHolds": null,
+    "holdersCount": 14,
+    "creatorHoldsLP": null,
+    "holdersCountLP": 1,
+    "totalSupply": null,
+    "pairMATICValue": {
+        "type": "BigNumber",
+        "hex": "0x00"
+    },
+    "LPValue": "0.0",
+    "newTokenAddr": "0x5227f8773b9122310380b59e335cde26166910df",
+    "tokenCreator": "0x4ef416aa741053b5f3968900379df2e3d0229065"
+},
+{
+    "pairAddr": "0x9b24969e562a15dbb1896a7d1860b7236a29cfc9",
+    "txHash": "0x9b8d3dca663815ff3b6eb99ede2d8fe106b7137492bb6dd589f3a301d2a71681",
+    "creatorHolds": 0.97,
+    "holdersCount": 6,
+    "creatorHoldsLP": 0.9999999999999901,
+    "holdersCountLP": 1,
+    "totalSupply": "10000000000000000000",
+    "pairMATICValue": {
+        "type": "BigNumber",
+        "hex": "0x016345785d8a0000"
+    },
+    "LPValue": "0.1",
+    "newTokenAddr": "0xd637cbbd0dac848f281f159f704bf43e338be2b8",
+    "tokenCreator": "0x8e29f9cc17fdf94bdb5d6780e183eb7e059363ff"
+},
+{
+    "pairAddr": "0x41a6c47289000109246adbc1d1e7c81672c78950",
+    "txHash": "0xc1aa536e692d956a434d9d92a08dddf0730dab394d9ddc8aef85188d4188ad60",
+    "creatorHolds": 0.97,
+    "holdersCount": 6,
+    "creatorHoldsLP": 0.99999999,
+    "holdersCountLP": 1,
+    "totalSupply": "10000000000000000000",
+    "pairMATICValue": {
+        "type": "BigNumber",
+        "hex": "0x00"
+    },
+    "LPValue": "0.0",
+    "newTokenAddr": "0xd637cbbd0dac848f281f159f704bf43e338be2b8",
+    "tokenCreator": "0x8e29f9cc17fdf94bdb5d6780e183eb7e059363ff"
+},
+{
+    "pairAddr": "0xa81b86dc89e8c558dbfa061902a2f05f32ed89e1",
+    "txHash": "0x014c8ee70e033f0796ef590072dd0d72b9a7bf61ad43a8446362aa196781a7c4",
+    "creatorHolds": 0.049999,
+    "holdersCount": 21,
+    "creatorHoldsLP": 0.9999999998585787,
+    "holdersCountLP": 1,
+    "totalSupply": "1000000000000000000000000",
+    "pairMATICValue": {
+        "type": "BigNumber",
+        "hex": "0x00"
+    },
+    "LPValue": "0.0",
+    "newTokenAddr": "0xea964205652f71f40f86a79e91f778dae392389d",
+    "tokenCreator": "0x18b26911b982754aa2e39778b62ab853eba4b84f"
+},
+{
+    "pairAddr": "0x12bf6b35534e24cbcb129c1c495f74595b9d0b5a",
+    "txHash": "0x425f32dcec9c0c8d92445cd3d725f020a15219dd60289b4c59a73badbce05af6",
+    "creatorHolds": 0.0005278897304271395,
+    "holdersCount": 53,
+    "creatorHoldsLP": 0.9999999999999966,
+    "holdersCountLP": 1,
+    "totalSupply": "29268131139598272858273",
+    "pairMATICValue": {
+        "type": "BigNumber",
+        "hex": "0x00"
+    },
+    "LPValue": "0.0",
+    "newTokenAddr": "0x3cef98bb43d732e2f285ee605a8158cde967d219",
+    "tokenCreator": "0x170143c54ba2ad3cc65c90ea7305d4dfb96124e9"
+},
+{
+    "pairAddr": "0xa877abb2a9fddab5785b07af8e7ea750725d0e03",
+    "txHash": "0x07962dffb061fb77ffb12b28093f6e7dcf18fbe78277f7f5776e90b0c6c07d70",
+    "creatorHolds": 0.5983294846002674,
+    "holdersCount": 9,
+    "creatorHoldsLP": 0,
+    "holdersCountLP": 0,
+    "totalSupply": "10000000000000000000000",
+    "pairMATICValue": {
+        "type": "BigNumber",
+        "hex": "0x00"
+    },
+    "LPValue": "0.0",
+    "newTokenAddr": "0xb9d48c9758c6caebff898c46e50fac9acbcbeb4f",
+    "tokenCreator": "0x393c4dbd93a8921da8c7633d2f2a98e55867c789"
+},
